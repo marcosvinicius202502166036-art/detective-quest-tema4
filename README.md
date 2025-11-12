@@ -90,25 +90,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-# 🕵️ Detective Quest – Tema 4
-
-Projeto desenvolvido para a disciplina **Estrutura de Dados** da Estácio.
-
-## 🎯 Objetivo
-Implementar uma **árvore binária** que representa o mapa da mansão do jogo *Detective Quest*.  
-Cada nó da árvore é um cômodo, e as ligações representam as conexões entre eles.
-
-## 🧱 Estrutura
-- **Room** → representa um cômodo.
-- **MansionMap** → estrutura de árvore binária que organiza os cômodos.
-- **main.py** → executa o programa e demonstra as funções.
-
-## ⚙️ Funcionalidades
-- Inserção de cômodos.
-- Busca por cômodo.
-- Exibição do mapa completo (em ordem).
-
-## 🚀 Como executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/detective-quest-tema4.git
